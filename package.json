@@ -1,0 +1,16 @@
+{
+  "name": "audio-announcement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fakhry Hizballah",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "sound-play": "^1.1.0"
+  }
+}
