@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "node-cron": "^3.0.2",
+    "node-windows": "^1.0.0-beta.8",
     "sound-play": "^1.1.0"
   }
 }

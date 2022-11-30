@@ -1,0 +1,126 @@
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0
+E:\AL\KODE\Audio\app.js:6
+console.log(new new Date())
+            ^
+
+TypeError: (intermediate value) is not a constructor
+    at Object.<anonymous> (E:\AL\KODE\Audio\app.js:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.10.0

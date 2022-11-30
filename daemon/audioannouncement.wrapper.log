@@ -1,0 +1,30 @@
+2022-11-30 15:54:16 - Stopping audioannouncement.exe
+2022-11-30 15:54:16 - ProcessKill 25864
+2022-11-30 15:54:16 - Found child process: 7492 Name: conhost.exe
+2022-11-30 15:54:16 - Found child process: 25888 Name: node.exe
+2022-11-30 15:54:16 - Stopping process 7492
+2022-11-30 15:54:16 - Send SIGINT 7492
+2022-11-30 15:54:16 - SIGINT to 7492 failed - Killing as fallback
+2022-11-30 15:54:16 - Stopping process 25888
+2022-11-30 15:54:16 - Send SIGINT 25888
+2022-11-30 15:54:16 - SIGINT to 25888 failed - Killing as fallback
+2022-11-30 15:54:16 - Stopping process 25864
+2022-11-30 15:54:16 - Send SIGINT 25864
+2022-11-30 15:54:16 - SIGINT to 25864 failed - Killing as fallback
+2022-11-30 15:54:16 - Finished audioannouncement.exe
+2022-11-30 15:54:38 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=2040 E:\AL\KODE\Audio\node_modules\node-windows\lib\wrapper.js --file E:\AL\KODE\Audio\app.js --scriptoptions= --log "Audio Announcement wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-11-30 15:54:38 - Started 13564
+2022-11-30 15:54:58 - Stopping audioannouncement.exe
+2022-11-30 15:54:58 - ProcessKill 13564
+2022-11-30 15:54:58 - Found child process: 20648 Name: conhost.exe
+2022-11-30 15:54:58 - Found child process: 21724 Name: node.exe
+2022-11-30 15:54:58 - Stopping process 20648
+2022-11-30 15:54:58 - Send SIGINT 20648
+2022-11-30 15:54:58 - SIGINT to 20648 failed - Killing as fallback
+2022-11-30 15:54:58 - Stopping process 21724
+2022-11-30 15:54:58 - Send SIGINT 21724
+2022-11-30 15:54:58 - SIGINT to 21724 failed - Killing as fallback
+2022-11-30 15:54:58 - Stopping process 13564
+2022-11-30 15:54:58 - Send SIGINT 13564
+2022-11-30 15:54:58 - SIGINT to 13564 failed - Killing as fallback
+2022-11-30 15:54:58 - Finished audioannouncement.exe
